@@ -1,10 +1,10 @@
 npm i express cors dotenv mongodb mongoose
 npm i ts-node typescript nodemon @types/express @types/cors @types/node --save-dev
-
+ertdcyfvcdcdcd
 
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 0"
   },
 ---->
   "main": "./src/index.ts",
@@ -14,3 +14,12 @@ npm i ts-node typescript nodemon @types/express @types/cors @types/node --save-d
 
 
 npx tsc --init
+
+================= ================
+
+name => mern-food-ordering-app
+ip = 154.66.162.52 
+username => admin
+password => 8s4ZOuwKRGglc8tk 
+
+mongodb+srv://admin:8s4ZOuwKRGglc8tk@mern-food-ordering-app.1dsvnjj.mongodb.net/?retryWrites=true&w=majority&appName=mern-food-ordering-app
